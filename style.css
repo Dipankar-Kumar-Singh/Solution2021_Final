@@ -1005,6 +1005,7 @@ a:hover:after {
   flex-direction: row ;
   padding: 5% 5% 0 5% ;
   align-items: center;
+  flex-flow: row wrap-reverse;
 
 }
 .a1{
