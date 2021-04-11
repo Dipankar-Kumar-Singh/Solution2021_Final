@@ -1046,6 +1046,8 @@ a:hover:after {
   padding: 5% ;
   font-family: 'Open Sans', sans-serif;
   font-size: 110%;
+  text-align: justify;
+  text-justify: inter-word ;
 }
 
 h2{
@@ -1065,16 +1067,7 @@ h2{
   color:rgb(255, 255, 255)
 }
 
-#title_id:hover{
-  font-size:400% ;
-  display: flex;
-  margin : 2% 0 2% 0   ;
-  padding:0 ;
-  justify-content:center ;
-  /* font-family: 'Bungee Inline', cursive; */
-  font-family: 'Rubik', sans-serif;
-  font-weight: 700;
-  color:rgb(255, 255, 255)
+r:rgb(255, 255, 255)
 
 }
 
